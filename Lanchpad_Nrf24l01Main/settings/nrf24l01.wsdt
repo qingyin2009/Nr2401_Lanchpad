@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>lanchpad_nrf24/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>212</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+    <TerminalIO/></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-1473-24843</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>lanchpad_nrf24</ExpandedNode><ExpandedNode>lanchpad_nrf24/Vars.c</ExpandedNode><ExpandedNode>lanchpad_nrf24/WireLess.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25709-25617</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-24664-25637</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\TypeDef.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>83</SelStart><SelEnd>83</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\Init.c</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>605</SelStart><SelEnd>605</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\Vars.h</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>417</SelStart><SelEnd>417</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\Init.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>357</SelStart><SelEnd>366</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\430\inc\msp430g2452.h</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>1432</SelStart><SelEnd>1432</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\Timer.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>759</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\Timer.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>448</SelStart><SelEnd>448</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\430\src\lib\dlib\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\WireLess.c</Filename><XPos>0</XPos><YPos>75</YPos><SelStart>1060</SelStart><SelEnd>1060</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\Wireless.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>852</SelStart><SelEnd>852</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\430\inc\in430.h</Filename><XPos>0</XPos><YPos>75</YPos><SelStart>2702</SelStart><SelEnd>2702</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\Vars.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>244</SelStart><SelEnd>273</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\main.c</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>1417</SelStart><SelEnd>1431</SelEnd></Tab><ActiveTab>12</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0029f218><key>iaridepm.enu1</key></Toolbar-0029f218></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2><Row3><Sizes/></Row3><Row4><Sizes/></Row4><Row5><Sizes/></Row5><Row6><Sizes/></Row6><Row7><Sizes/></Row7></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>225</Bottom><Right>303</Right><x>-2</x><y>-2</y><xscreen>271</xscreen><yscreen>255</yscreen><sizeHorzCX>268583</sizeHorzCX><sizeHorzCY>544872</sizeHorzCY><sizeVertCX>302279</sizeVertCX><sizeVertCY>485043</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1011</Right><x>-2</x><y>-2</y><xscreen>1013</xscreen><yscreen>200</yscreen><sizeHorzCX>1003964</sizeHorzCX><sizeHorzCY>427350</sizeHorzCY><sizeVertCX>268583</sizeVertCX><sizeVertCY>544872</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
